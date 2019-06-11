@@ -21,7 +21,7 @@ class Title extends Component{
 
     componentWillUnmount(){
         clearInterval(this.titleInterval);
-        clearTimeout(thi.timeout);
+        clearTimeout(this.timeout);
     }
 
     animateTitles = () => {
