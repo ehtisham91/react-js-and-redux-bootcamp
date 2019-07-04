@@ -1,1 +1,1 @@
-Portfolio web application developed with react application..
+Portfolio web application developed with react and redux..
