@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"src.e31bb0bc.css","sourceRoot":"..\\src","sourcesContent":["body {\r\n    text-align: center;\r\n    font-size: 20px;\r\n    padding: 2.5%;\r\n    font-family: 'RobotoCondensed';\r\n}\r\n\r\nh1, h2, h3, h4, h5 {\r\n    font-family: 'EconomicBold'\r\n}\r\n"]}
